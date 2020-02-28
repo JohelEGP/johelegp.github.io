@@ -1,3 +1,5 @@
 # johelegp.github.io
 
-JEGP: [master](jegp/) ([full PDF](jegp/jegp.pdf))
+JEGP:
+   [master](https://johelegp.github.io/jegp/)
+([full PDF](https://johelegp.github.io/jegp/jegp.pdf))
